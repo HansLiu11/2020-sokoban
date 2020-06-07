@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/牆壁2.png</file>
+        <file>img/箱子2.png</file>
+        <file>img/you win.png</file>
+        <file>img/Sonic.png</file>
+        <file>img/Sonic2.png</file>
+        <file>img/Emerald1.png</file>
+        <file>img/Sonicbg.jpg</file>
+        <file>img/Amy.png</file>
+        <file>img/SA.png</file>
+        <file>img/wall2.png</file>
+        <file>img/finish.png</file>
+        <file>img/Supersonic2.gif</file>
+        <file>img/supersonic flyL.gif</file>
+        <file>img/Supersonic flyR.gif</file>
+        <file>img/ring.gif</file>
+        <file>img/Wasd.png</file>
+        <file>img/ring01.png</file>
+        <file>img/Sonicbg2.png</file>
+        <file>img/Sonicgf.gif</file>
+        <file>img/Sonicbg1.jpg</file>
+    </qresource>
+</RCC>
